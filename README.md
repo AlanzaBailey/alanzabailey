@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alanza, an <a href="https://www.linkedin.com/in/alanza-bailey-319946268/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Alanza, an <a href="https://www.linkedin.com/in/alanza-bailey-319946268/">IT Professional</a>👨🏾‍🍳👌🏾</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
