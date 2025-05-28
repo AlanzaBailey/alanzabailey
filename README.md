@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AlanzaBailey/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AlanzaBailey/azure-network-protocols)
 - <b>Virtual Private Network</b>
-  - [VPN Setup in a Virtual Machine(Mircosoft Azure)](https://github.com/)
+  - [VPN Setup in a Virtual Machine(Mircosoft Azure)](https://github.com/AlanzaBailey/Setting-Up-A-VPN)
 <h2>📶Connect with me:</h2>
 
 [<img align="left" alt="Alanza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
