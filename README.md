@@ -15,4 +15,4 @@
 
 [<img align="left" alt="Alanza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/alanza-bailey-319946268/
+[linkedin]: https://linkedin.com/in/alanza-bailey-devops/
