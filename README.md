@@ -13,7 +13,7 @@
 
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=AlanzaBailey&show_icons=true&theme=dark&title_color=FF9900&icon_color=FF9900&border_color=FF9900&bg_color=0d1117&text_color=c9d1d9" />
 
-### 👋 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25px"> About Me
 
 I'm a **Cloud Engineer** and **DevOps Engineer** focused on building scalable, automated infrastructure on AWS. I work with Terraform, Kubernetes, Docker, and Jenkins to provision cloud environments and ship applications through CI/CD pipelines.
 
@@ -25,7 +25,7 @@ I'm a **Cloud Engineer** and **DevOps Engineer** focused on building scalable, a
 
 ---
 
-### 🛠️ Tech Stack
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25px"> Tech Stack
 
 <div align="center">
 
@@ -44,7 +44,7 @@ I'm a **Cloud Engineer** and **DevOps Engineer** focused on building scalable, a
 
 ---
 
-### 🚀 Featured Projects
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25px"> Featured Projects
 
 <table>
 <tr>
