@@ -12,7 +12,7 @@
 
 ### 👋 About Me
 
-I'm a Cloud Engineer and DevOps Engineer with hands-on experience designing, deploying, and automating AWS infrastructure — from EC2, Amazon EKS, and Kubernetes clusters to full CI/CD pipelines built with Jenkins, Docker, and Terraform. 
+I'm a Cloud Engineer and DevOps practitioner focused on building scalable, automated infrastructure on AWS. I work with Terraform, Kubernetes, Docker, and Jenkins to provision cloud environments and ship applications through CI/CD pipelines.
 
 - 🔧 Currently working on: AWS EKS microservices deployments & Terraform modules
 - ☁️ Cloud focus: AWS (EC2, EKS, ECS, S3, IAM, VPC, CloudWatch)
@@ -37,21 +37,21 @@ I'm a Cloud Engineer and DevOps Engineer with hands-on experience designing, dep
 
 ### 🚀 Featured Projects
 
-#### ☁️ [AWS Legacy Migration — EC2 + LAMP + WordPress](https://github.com/AlanzaBailey/aws-legacy-migration)
-Migrated a legacy application to AWS by provisioning an EC2 Ubuntu instance and configuring a full LAMP stack (Apache, MySQL, PHP, WordPress) through a 21-step migration plan.
-`AWS EC2` `Linux` `Apache` `MySQL` `WordPress`
-
-#### ⚙️ [Microservices on Amazon EKS](https://github.com/AlanzaBailey/eks-microservices)
-Deployed containerized microservices to an Amazon EKS cluster using Helm charts. Configured Horizontal Pod Autoscalers (HPA) to scale from 1→5 pods at 50% CPU. Load-tested with Siege at 100 concurrent users.
-`Kubernetes` `Amazon EKS` `Helm` `Terraform` `Docker` `HPA`
-
-#### 🔄 [CI/CD Pipeline — Jenkins + Docker + AWS ECS](https://github.com/AlanzaBailey/cicd-jenkins-ecs)
-Built an end-to-end CI/CD pipeline with Jenkins, Docker, GitHub, and Amazon ECR that automatically builds and deploys a containerized React frontend and Express backend to AWS ECS.
+#### 🔄 [CI/CD Pipeline — Jenkins + Docker + AWS ECS](https://github.com/AlanzaBailey/aws-cicd-jenkins-ecs)
+Built an end-to-end CI/CD pipeline with Jenkins, Docker, GitHub, and Amazon ECR that automatically builds and deploys a containerized React frontend and Express backend to AWS ECS. All infrastructure provisioned with Terraform.
 `Jenkins` `Docker` `AWS ECS` `Amazon ECR` `Terraform` `GitHub`
 
-#### 🏗️ [Infrastructure as Code — Terraform + Ansible](https://github.com/AlanzaBailey/iac-terraform-ansible)
-Provisioned EC2 instances, S3 buckets, IAM roles, and security groups using Terraform. Automated server configuration with Ansible playbooks to deploy Apache and Nginx.
+#### ⚙️ [Microservices on Amazon EKS](https://github.com/AlanzaBailey/aws-eks-microservices)
+Deployed containerized microservices to an Amazon EKS cluster using Helm charts. Configured Horizontal Pod Autoscalers (HPA) to scale from 1→5 pods at 50% CPU. Load-tested with Siege at 100 concurrent users over 5 minutes.
+`Kubernetes` `Amazon EKS` `Helm` `Terraform` `Docker` `HPA`
+
+#### 🏗️ [Infrastructure as Code — Terraform + Ansible](https://github.com/AlanzaBailey/aws-iac-terraform-ansible)
+Provisioned EC2 instances, S3 buckets, IAM roles, and security groups using Terraform. Automated server configuration with Ansible playbooks to deploy Apache and Nginx. Deployed a live web page to EC2.
 `Terraform` `Ansible` `AWS EC2` `S3` `IAM` `Linux`
+
+#### ☁️ AWS Legacy Migration — EC2 + LAMP + WordPress *(coming soon)*
+Migrated a legacy application to AWS by provisioning an EC2 Ubuntu instance and configuring a full LAMP stack (Apache, MySQL, PHP, WordPress) through a 21-step migration plan.
+`AWS EC2` `Linux` `Apache` `MySQL` `WordPress`
 
 ---
 
