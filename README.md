@@ -12,7 +12,7 @@
 
 ### 👋 About Me
 
-I'm a Cloud Engineer and DevOps practitioner focused on building scalable, automated infrastructure on AWS. I work with Terraform, Kubernetes, Docker, and Jenkins to provision cloud environments and ship applications through CI/CD pipelines.
+I'm a Cloud Engineer and DevOps Engineer with hands-on experience designing, deploying, and automating AWS infrastructure — from EC2, Amazon EKS, and Kubernetes clusters to full CI/CD pipelines built with Jenkins, Docker, and Terraform. 
 
 - 🔧 Currently working on: AWS EKS microservices deployments & Terraform modules
 - ☁️ Cloud focus: AWS (EC2, EKS, ECS, S3, IAM, VPC, CloudWatch)
