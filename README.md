@@ -84,7 +84,7 @@ Provisioned EC2 instances, S3 buckets, IAM roles, and security groups using Terr
 </td>
 <td width="50%" valign="top">
 
-#### ☁️ AWS Legacy Migration *(coming soon)*
+#### ☁️ [AWS Legacy Migration](https://github.com/AlanzaBailey/AWS-Legacy-Migration)
 Migrated a legacy app to AWS by provisioning EC2 and configuring a full LAMP stack (Apache, MySQL, PHP, WordPress) through a 21-step cloud migration plan.
 
 ![AWS EC2](https://img.shields.io/badge/-AWS_EC2-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
