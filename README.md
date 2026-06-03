@@ -11,7 +11,6 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=AlanzaBailey&show_icons=true&theme=dark&title_color=FF9900&icon_color=FF9900&border_color=FF9900&bg_color=0d1117&text_color=c9d1d9" />
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25px"> About Me
 
@@ -21,7 +20,7 @@ I'm a **Cloud Engineer** and **DevOps Engineer** focused on building scalable, a
 - ☁️ **Cloud:** EC2 · EKS · ECS · S3 · IAM · VPC · CloudWatch
 - 📫 **Connect:** [linkedin.com/in/alanza-bailey-devops](https://linkedin.com/in/alanza-bailey-devops)
 
-<br clear="right"/>
+
 
 ---
 
