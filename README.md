@@ -25,7 +25,7 @@ I'm a **Cloud Engineer** and **DevOps Engineer** focused on building scalable, a
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25px"> Tech Stack
+![Robot](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FF9900&center=false&vCenter=true&width=200&lines=🤖+Tech+Stack)
 
 <div align="center">
 
